@@ -1,5 +1,5 @@
 """
-Program 2 :
+Program 2:
 Write a program to create a simple calculator that can
 add, subtract, multiply or divide 2 variables at a time.
 """
