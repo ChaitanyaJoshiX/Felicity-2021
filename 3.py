@@ -1,5 +1,5 @@
 """
-Program 3 :
+Program 3:
 Write a program to move every character in the following string forward,
 by 25 ASCII Values.
 Here is your string: "PU[LYOV\ZLJTY"
