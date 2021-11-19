@@ -1,5 +1,5 @@
 """
-Program 1 :
+Program 1:
 Write a program to enter any sentence and calculate the following:
  a) Total number of digits present in it.
  b) Total number of small letters and capital letters present in it.
